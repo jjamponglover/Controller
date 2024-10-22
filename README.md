@@ -18,4 +18,4 @@
 * 원격 조종 : https://youtu.be/FIdkRVOPYwU
 
 # ◾ PPT
-https://www.miricanvas.com/v/137nv2j](https://docs.google.com/presentation/d/1VQsI_Xh_QkLtCH36218hfMINoUE5a7nO/edit?usp=sharing&ouid=115252002698098783286&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1VQsI_Xh_QkLtCH36218hfMINoUE5a7nO/edit?usp=sharing&ouid=115252002698098783286&rtpof=true&sd=true
