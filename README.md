@@ -1,7 +1,8 @@
 # ◾ Controller
 <h3> 조이스틱 모듈과 블루투스를 사용한 원격조종 자동차 컨트롤러 <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C"> <img alt="Static Badge" src="https://img.shields.io/badge/STM32-2ECCFA"> 
 </h3>
-<img src = "https://github.com/user-attachments/assets/9c7252f0-f630-4cd5-9afd-28962c2012e7" width="50%" height="50%">
+<img src = "https://github.com/user-attachments/assets/23297f2b-981b-471d-8181-fbac5e037e80" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/ac79fca7-624d-47a4-8396-d2ccdd423bc9" width="20%" height="20%">
 
 # ◾ Introduce
 * Nucleo F411RE 보드를 이용 Controller 구현
